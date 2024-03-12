@@ -7,4 +7,5 @@
 - Me gustaria poder aprender mas sobre la programacion y probar nuevos lenguajes;
 
 
-![]([https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png))
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)
+
